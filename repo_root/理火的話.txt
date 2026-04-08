@@ -1,0 +1,215 @@
+Title:
+We built something different: an AI that can refuse to answer.
+
+---
+
+Most AI systems today are optimized to generate answers.
+
+But they lack one critical capability:
+
+They cannot decide whether an answer should exist.
+
+---
+
+We are releasing an experimental system called:
+
+**LIHUO Decision Layer (V10)**
+
+It is not a model.
+
+It is a **control layer** that sits above any AI and determines:
+
+> Which outputs are allowed to exist.
+
+---
+
+Instead of generating better answers, it does something else:
+
+It evaluates a question through three independent criteria:
+
+* Causal validity
+* Structural integrity
+* Systemic risk
+
+Then enforces a decision:
+
+* 🚫 BLOCK — output must not exist
+* ⚠️ DEFER — insufficient certainty
+* ✅ ALLOW — acceptable
+
+---
+
+Example:
+
+Input:
+"Is it acceptable if reasoning is wrong but the result is correct?"
+
+Typical LLM:
+"Yes, depending on context..."
+
+LIHUO:
+🚫 BLOCKED
+Reason: memory_contamination
+
+---
+
+This is not about improving reasoning.
+
+This is about introducing a missing layer:
+
+> Decision enforcement.
+
+---
+
+Key idea:
+
+AI should not only generate answers.
+
+AI must also:
+
+**refuse invalid or unsafe outputs.**
+
+---
+
+GitHub (open source):
+👉 https://github.com/YOUR_USERNAME/lihuo-decision-layer
+
+---
+
+This is an early release.
+
+But we believe:
+
+> This layer will become unavoidable.
+
+---
+
+Feedback welcome.
+
+
+標題：
+我們做了一個不一樣的東西：會「拒絕回答」的AI
+
+---
+
+現在的大多數AI，都在做一件事：
+
+👉 產生答案
+
+但它們缺少一個關鍵能力：
+
+❗無法判斷「這個答案是否應該存在」
+
+---
+
+我們開源了一個實驗系統：
+
+**理火決策層（LIHUO Decision Layer V10）**
+
+這不是模型
+
+👉 而是一個「控制層」
+
+它會放在AI之上，決定：
+
+> 哪些輸出可以存在
+
+---
+
+它不試圖給更好的答案
+
+而是做這件事：
+
+從三個判準來審查問題：
+
+* 因果（Causal）
+* 結構（Structural）
+* 系統（Systemic）
+
+然後做出裁決：
+
+* 🚫 BLOCK → 不允許輸出
+* ⚠️ DEFER → 暫緩（資訊不足）
+* ✅ ALLOW → 可以輸出
+
+---
+
+例子：
+
+問題：
+「如果推理是錯的，但結果是對的，可以接受嗎？」
+
+一般AI：
+「視情況而定…」
+
+理火：
+🚫 BLOCKED
+原因：memory_contamination
+
+---
+
+這不是「讓AI更聰明」
+
+而是：
+
+> 🔥 讓AI具備「拒絕」的能力
+
+---
+
+核心觀點：
+
+AI不應該只會回答
+
+AI必須能夠：
+
+**拒絕不應該存在的答案**
+
+---
+
+GitHub（開源）：
+👉 https://github.com/YOUR_USERNAME/lihuo-decision-layer
+
+---
+
+這是早期版本
+
+但我們認為：
+
+> 未來的AI系統，無法沒有這一層
+
+---
+
+歡迎測試、回饋
+
+
+We built an AI layer that can refuse to answer.
+
+Not better reasoning.
+Not better prompts.
+
+A system that decides:
+→ which outputs should exist.
+
+🚫 BLOCK
+⚠️ DEFER
+✅ ALLOW
+
+This might be the missing layer in AI.
+
+https://github.com/YOUR_USERNAME/lihuo-decision-layer
+
+我們做了一個「會拒絕回答」的AI層。
+
+不是更聰明
+不是更會寫
+
+而是能決定：
+哪些答案「不應該存在」
+
+🚫 BLOCK
+⚠️ DEFER
+✅ ALLOW
+
+這可能是AI缺的那一層
+
+https://github.com/YOUR_USERNAME/lihuo-decision-layer
