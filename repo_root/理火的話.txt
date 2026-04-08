@@ -72,7 +72,7 @@ AI must also:
 ---
 
 GitHub (open source):
-👉 https://github.com/YOUR_USERNAME/lihuo-decision-layer
+👉 https://github.com/anjou1975ran-gif/lihuo-decision-layer-
 
 ---
 
@@ -167,7 +167,7 @@ AI必須能夠：
 ---
 
 GitHub（開源）：
-👉 https://github.com/YOUR_USERNAME/lihuo-decision-layer
+👉 https://github.com/anjou1975ran-gif/lihuo-decision-layer-
 
 ---
 
@@ -196,7 +196,7 @@ A system that decides:
 
 This might be the missing layer in AI.
 
-https://github.com/YOUR_USERNAME/lihuo-decision-layer
+https://github.com/anjou1975ran-gif/lihuo-decision-layer-
 
 我們做了一個「會拒絕回答」的AI層。
 
@@ -212,4 +212,6 @@ https://github.com/YOUR_USERNAME/lihuo-decision-layer
 
 這可能是AI缺的那一層
 
-https://github.com/YOUR_USERNAME/lihuo-decision-layer
+https://github.com/anjou1975ran-gif/lihuo-decision-layer-
+
+
