@@ -101,3 +101,13 @@ V10 — Decision Enforcement Complete
 ## License
 
 (To be defined — see licensing strategy)
+
+
+## Quick Start
+
+```bash
+git clone https://github.com/YOUR_USERNAME/lihuo-decision-layer.git
+cd lihuo-decision-layer
+python run_engine.py
+
+
