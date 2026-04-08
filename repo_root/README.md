@@ -1,5 +1,10 @@
 # LIHUO DECISION LAYER (V10)
 
+
+AI should not just answer.
+
+It should decide whether an answer should exist.
+
 ## What This Is
 
 This is not an AI model.
