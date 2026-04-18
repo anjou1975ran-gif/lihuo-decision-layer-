@@ -5,7 +5,7 @@ REPO_ROOT = Path(__file__).resolve().parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.append(str(REPO_ROOT))
 
-from ENGINE.reaction_body_engine_v1 import ReactionBodyEngine
+from CORE.reaction_body_engine_v1 import ReactionBodyEngine
 
 
 def main():
