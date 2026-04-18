@@ -96,8 +96,6 @@ class LocalLLMAdapter:
 
 ## V. Engine Integration（改這一段）
 
-把 ReactionBodyEngine 裡的：
-
 ```python
 def handle_llm(self, user_input, plan):
 
