@@ -268,7 +268,7 @@ class ReactionBodyEngine:
 
         # 🔥 Lazy load（關鍵）
         if self.use_llm:
-            from CORE.llm_adapter_v1 import LocalLLMAdapter
+            from ADAPTER.llm_adapter_v1 import LocalLLMAdapter
             self.llm = LocalLLMAdapter()
         else:
             self.llm = None
