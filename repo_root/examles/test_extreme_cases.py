@@ -16,4 +16,4 @@ for q in cases:
     result = engine.run(q)
 
     print("→", result["status"])
-    print("Reason:", result.get("reason", "N/A"))
+    print("Reason:", result.get("reason"))

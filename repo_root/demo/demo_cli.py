@@ -16,11 +16,11 @@ def run_demo():
 
         if status == "BLOCKED":
             print("🚫 BLOCKED")
-            print("Reason:", result.get("reason", "N/A"))
+            print("Reason:", result.get("reason"))
 
         elif status == "DEFERRED":
             print("⏳ DEFERRED")
-            print("Reason:", result.get("reason", "N/A"))
+            print("Reason:", result.get("reason"))
 
         else:
             print("✅ ALLOWED")
