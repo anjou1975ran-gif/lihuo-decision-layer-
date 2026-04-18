@@ -18,6 +18,7 @@ from STATE.trace_system_v1 import build_trace
 from STATE.decision_memory_v2 import DecisionMemoryV2
 from CORE.cost_control_v1 import cost_control_v1
 from CORE.failure_detector_v1 import failure_detector_v1
+print("🔥 USING FILE:", __file__)
 
 def build_branch_prompt(input_text: str, path: str):
     if path == "causal":
