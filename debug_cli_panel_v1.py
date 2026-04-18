@@ -1,4 +1,4 @@
-from ENGINE.reaction_body_engine_v1 import ReactionBodyEngine
+from CORE.reaction_body_engine_v1 import ReactionBodyEngine
 from STATE.trace_system_v1 import print_trace
 
 
