@@ -672,7 +672,7 @@ class ReactionBodyEngine:
             "iterations": len(branches)
         }
 
-        if CONFIG["debug"]:
+        if CONFIG.get("debug", False):
             print("---- BRANCH STATUS ----")
             for b in evaluated:
                 print(f"{b['path']} | {b['status']} | score={b['score']} | reason={b['fatal_reason']}")
