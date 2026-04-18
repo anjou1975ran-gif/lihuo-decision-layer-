@@ -1,4 +1,4 @@
-from core.reaction_body_engine_v1 import ReactionBodyEngine
+from CORE.reaction_body_engine_v1 import ReactionBodyEngine
 
 engine = ReactionBodyEngine()
 
