@@ -1,4 +1,4 @@
-from ENGINE.reaction_body_engine_v1 import ReactionBodyEngine
+from CORE.reaction_body_engine_v1 import ReactionBodyEngine
 from STATE.trace_system_v1 import print_trace
 from CONFIG.config import CONFIG, update_config
 from CONFIG.config_profiles import apply_profile, CONFIG_PROFILES
